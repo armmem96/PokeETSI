@@ -1,0 +1,440 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerVictoryME=Victory! Trainer (Pokémon Omega Ruby  Alpha Sapphire OST).mp3
+WildVictoryME=Victory! Wild Pokémon   Pokémon FireRedLeafGreen.mp3
+TrainerBattleBGM=Pokemon Omega RubyAlpha Sapphire   Battle! Trainer Music (HQ).mp3
+SurfBGM=Ship.mid
+BicycleBGM=Bici.mp3
+Home=12,22,9,8
+WildBattleBGM=Battle! VS Wild Pokémon (Pokémon Omega Ruby  Alpha Sapphire OST).mp3
+[001]
+# Intro
+[002]
+# Ruta 5
+Weather=Rain,25
+Bicycle=true
+MapPosition=0,23,4
+Outdoor=true
+ShowArea=true
+[003]
+# Pueblo Macarena
+MapPosition=0,23,3
+[004]
+# Pueblo Macarena
+MapPosition=0,23,2
+ShowArea=false
+[005]
+# Puente del Alamillo
+Weather=Storm,15
+Bicycle=true
+MapPosition=0,20,2
+Outdoor=true
+ShowArea=true
+[006]
+# Ruta 4
+BattleBack=
+Weather=HeavyRain,25
+Bicycle=true
+MapPosition=0,16,2
+Outdoor=true
+ShowArea=true
+[007]
+# Despacho de Saborid
+MapPosition=0,14,3
+[009]
+# Guardería Pokémon
+MapPosition=0,18,10
+[010]
+# Pueblo Macarena
+Bicycle=true
+MapPosition=0,23,3
+Outdoor=true
+HealingSpot=10,16,13
+ShowArea=true
+[011]
+# Piso de \PN
+MapPosition=0,23,3
+[012]
+# ETSI
+MapSize=1,
+Bicycle=true
+MapPosition=0,14,3
+Outdoor=true
+HealingSpot=12,22,9
+ShowArea=true
+[013]
+# ETSI
+MapPosition=0,14,3
+[014]
+# Ruta 1
+Bicycle=true
+WildVictoryME=Victory! Wild Pokémon   Pokémon FireRedLeafGreen.mp3
+MapPosition=0,13,2
+Outdoor=true
+WildBattleBGM=Battle! VS Wild Pokémon (Pokémon Omega Ruby  Alpha Sapphire OST).mp3
+ShowArea=true
+[015]
+# Relleno izquierda
+Bicycle=true
+WildVictoryME=Victory! Wild Pokémon   Pokémon FireRedLeafGreen.mp3
+Outdoor=true
+WildBattleBGM=Battle! VS Wild Pokémon (Pokémon Omega Ruby  Alpha Sapphire OST).mp3
+ShowArea=true
+[016]
+# Despacho de Saborid
+MapPosition=0,14,3
+[017]
+# Ruta 2
+BattleBack=
+Weather=Rain,15
+Bicycle=true
+WildVictoryME=Victory! Wild Pokémon   Pokémon FireRedLeafGreen.mp3
+MapPosition=0,11,4
+Outdoor=true
+WildBattleBGM=Battle! VS Wild Pokémon (Pokémon Omega Ruby  Alpha Sapphire OST).mp3
+ShowArea=true
+[018]
+# FCOM
+Bicycle=true
+MapPosition=0,11,5
+Outdoor=true
+HealingSpot=18,18,5
+ShowArea=true
+[019]
+# FCOM
+MapPosition=0,11,5
+[020]
+# FCOM
+MapPosition=0,11,5
+[021]
+# Ruta 3
+Weather=Snow,5
+Bicycle=true
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+[022]
+# Monte Cartuja
+Bicycle=true
+MapPosition=0,12,8
+Outdoor=false
+ShowArea=true
+[023]
+# Dpto. de Química
+MapPosition=0,11,5
+[024]
+# Academia Pokémon
+MapPosition=0,12,5
+[025]
+# FCOM
+MapPosition=0,11,5
+[026]
+# FCOM
+MapPosition=0,11,5
+ShowArea=true
+[027]
+# FCOM
+MapPosition=0,11,5
+[028]
+# CARP
+Bicycle=true
+MapPosition=0,19,2
+Outdoor=true
+ShowArea=true
+[029]
+# Sala Combate
+[031]
+# CARP
+MapPosition=0,19,1
+[032]
+# Safari Alamillo
+BattleBack=IndoorB
+MapPosition=0,17,1
+HealingSpot=2,8,8
+[034]
+# Ciudad Parlamento
+Bicycle=true
+MapPosition=0,23,5
+Outdoor=true
+HealingSpot=34,11,22
+ShowArea=true
+[035]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[036]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[037]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[038]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[039]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[040]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[041]
+# Ciudad Parlamento
+MapPosition=0,23,5
+[042]
+# Ciudad Parlamento
+MapPosition=0,23,6
+[043]
+# Parlamento de Hispalis
+MapPosition=0,24,5
+Outdoor=false
+ShowArea=true
+[044]
+# Basílica de Dialga
+MapPosition=0,23,5
+Outdoor=false
+ShowArea=true
+[045]
+# Ruta 6
+Bicycle=true
+MapPosition=0,23,6
+Outdoor=true
+ShowArea=true
+[046]
+# Pueblo Alameda
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=true
+HealingSpot=46,8,17
+ShowArea=true
+[047]
+# Dpto. de Materiales
+MapPosition=0,23,7
+[048]
+# Cueva Alfalfa
+Bicycle=true
+MapPosition=0,24,10
+ShowArea=true
+[049]
+# Herbolario
+MapPosition=0,23,8
+[050]
+# Pueblo Alameda
+MapPosition=0,23,8
+[051]
+# Pueblo Alameda
+MapPosition=0,23,8
+[052]
+# Pueblo Alameda
+MapPosition=0,23,8
+[053]
+# Ruta 9
+Weather=Rain,15
+Bicycle=true
+MapPosition=0,20,5
+Outdoor=true
+ShowArea=true
+[054]
+# Puente de la Barqueta
+Weather=HeavyRain,15
+Bicycle=true
+MapPosition=0,17,5
+Outdoor=true
+ShowArea=true
+[055]
+# Camino de Bicis
+Bicycle=true
+MapPosition=0,18,6
+Outdoor=false
+[056]
+# Zona Sabana
+Bicycle=true
+MapPosition=0,17,0
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[057]
+# Torre de los Perdigones
+MapPosition=0,20,5
+[058]
+# Torre de los Perdigones
+MapPosition=0,20,5
+[059]
+# Isla Mágica
+Bicycle=true
+MapPosition=0,15,5
+Outdoor=true
+ShowArea=true
+[060]
+# Isla Mágica
+Bicycle=true
+MapPosition=0,15,5
+Outdoor=true
+ShowArea=true
+[061]
+# Salón de Juegos
+MapPosition=0,15,5
+[062]
+# Choza de Premios
+MapPosition=0,15,5
+[063]
+# Ruta 10
+Bicycle=true
+MapPosition=0,14,7
+Outdoor=true
+ShowArea=true
+[064]
+# Cueva Alfalfa
+Bicycle=true
+MapPosition=0,24,10
+ShowArea=false
+[065]
+# Ruta 7
+Bicycle=true
+MapPosition=0,18,11
+Outdoor=true
+HealingSpot=65,76,20
+ShowArea=true
+[066]
+# Camino de Bicis
+Bicycle=true
+MapPosition=0,17,10
+[067]
+# Ruta 8
+Bicycle=true
+MapPosition=0,15,12
+Outdoor=true
+ShowArea=true
+[068]
+# Ciudad Capote
+Bicycle=true
+MapPosition=0,15,13
+Outdoor=true
+HealingSpot=68,41,13
+ShowArea=true
+[069]
+# Ciudad Capote
+MapPosition=0,15,13
+[070]
+# Dpto. de Electrónica
+MapPosition=0,15,14
+[071]
+# Ciudad Capote
+MapPosition=0,15,13
+[072]
+# Ciudad Capote
+MapPosition=0,15,13
+[073]
+# Ciudad Capote
+MapPosition=0,15,13
+[074]
+# Ciudad Capote
+MapPosition=0,15,13
+DarkMap=true
+[075]
+# Ruta 7
+Bicycle=true
+MapPosition=0,17,11
+Outdoor=true
+[076]
+# Relleno Izqda
+Weather=Rain,25
+MapPosition=2,13,16
+Outdoor=true
+ShowArea=true
+[077]
+# Ruta 21
+Weather=Sun,30
+Bicycle=true
+MapPosition=0,15,15
+Outdoor=true
+ShowArea=true
+[078]
+# Puente de la Expiración
+Bicycle=true
+MapPosition=0,12,14
+Outdoor=true
+ShowArea=true
+[079]
+# Ciudad Capote
+MapPosition=0,14,13
+[080]
+# Pasarela de la Cartuja
+Bicycle=true
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+[081]
+# Monte Cartuja
+Bicycle=true
+MapPosition=0,12,9
+ShowArea=true
+[082]
+# Monte Cartuja
+Bicycle=true
+MapPosition=0,12,9
+DarkMap=true
+[083]
+# Monte Cartuja
+Bicycle=true
+MapPosition=0,11,9
+DarkMap=true
+[084]
+# Camino de Bicis
+Bicycle=true
+MapPosition=0,17,8
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[086]
+# Camino de Bicis
+Bicycle=true
+MapPosition=0,19,7
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[087]
+# Camino de Bicis
+Bicycle=true
+MapPosition=0,18,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=false
+[089]
+# Zona Pantano
+Weather=Rain,70
+Bicycle=true
+MapPosition=0,18,0
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[091]
+# Zona Jungla
+Weather=Rain,40
+Bicycle=true
+MapPosition=0,17,0
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[092]
+# Zona Jungla
+Weather=Rain,40
+Bicycle=true
+MapPosition=0,17,0
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[093]
+# Zona Desierto
+Weather=Sandstorm,100
+Bicycle=true
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[094]
+# Zona Desierto
+SnapEdges=false
+Bicycle=true
+MapPosition=0,17,0
+SafariMap=true
+Outdoor=true
+ShowArea=true

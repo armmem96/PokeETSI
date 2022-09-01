@@ -1,0 +1,192 @@
+# Zona Desierto (93) - Puente del Alamillo (5)
+93,South,67,5,North,0
+# Ruta 4 (6) - Puente del Alamillo (5)
+6,East,0,5,West,0
+# CARP (28) - Puente del Alamillo (5)
+28,North,0,5,South,0
+# Zona Pantano (89) - Puente del Alamillo (5)
+89,South,0,5,North,9
+# Zona Sabana (56) - Puente del Alamillo (5)
+56,South,27,5,North,0
+# Relleno Abajo (30) - Puente del Alamillo (5)
+30,East,0,5,West,37
+# Relleno izquierda (15) - Puente del Alamillo (5)
+15,North,0,5,South,27
+# Pueblo Macarena (10) - Puente del Alamillo (5)
+10,North,0,5,South,48
+# Relleno Izquierda (88) - Zona Desierto (93)
+88,West,0,93,East,205
+# Zona Desierto (94) - Zona Desierto (93)
+94,South,0,93,North,5
+# Ruta 4 (6) - Zona Desierto (93)
+6,North,0,93,South,13
+# Zona Sabana (56) - Zona Desierto (93)
+56,West,0,93,East,30
+# Zona Jungla (91) - Zona Desierto (93)
+91,West,0,93,East,10
+# Zona Jungla (92) - Zona Desierto (93)
+92,West,20,93,East,0
+# Puente de la Barqueta (54) - Zona Desierto (93)
+54,West,0,93,East,173
+# Relleno Izquierda (88) - Isla Mágica (60)
+88,West,0,60,East,43
+# Zona Sabana (56) - Isla Mágica (60)
+56,West,132,60,East,0
+# Zona Jungla (91) - Isla Mágica (60)
+91,West,152,60,East,0
+# Zona Jungla (92) - Isla Mágica (60)
+92,West,182,60,East,0
+# Isla Mágica (59) - Isla Mágica (60)
+59,North,0,60,South,0
+# Puente de la Barqueta (54) - Isla Mágica (60)
+54,West,0,60,East,11
+# Puente de la Expiración (78) - Ruta 21 (77)
+78,East,33,77,West,0
+# Zona Desierto (94) - Relleno Izquierda (88)
+94,East,221,88,West,0
+# Camino de Bicis (86) - Relleno Izquierda (88)
+86,West,0,88,East,2
+# Isla Mágica (59) - Relleno Izquierda (88)
+59,East,20,88,West,0
+# ETSI (12) - Ruta 2 (17)
+12,West,2,17,East,0
+# FCOM (18) - Ruta 2 (17)
+18,North,0,17,South,0
+# Ruta 1 (14) - Ruta 2 (17)
+14,West,37,17,East,0
+# Zona Sabana (56) - Zona Desierto (94)
+56,West,0,94,East,46
+# Zona Jungla (91) - Zona Desierto (94)
+91,West,0,94,East,26
+# Zona Jungla (92) - Zona Desierto (94)
+92,West,4,94,East,0
+# Puente de la Barqueta (54) - Zona Desierto (94)
+54,West,0,94,East,189
+# CARP (28) - Ruta 4 (6)
+28,West,0,6,East,28
+# ETSI (12) - Ruta 4 (6)
+12,North,42,6,South,0
+# Zona Pantano (89) - Ruta 4 (6)
+89,South,0,6,North,63
+# Zona Sabana (56) - Ruta 4 (6)
+56,South,0,6,North,27
+# Relleno Abajo (30) - Ruta 4 (6)
+30,North,0,6,South,28
+# Ruta 1 (14) - Ruta 4 (6)
+14,East,0,6,West,2
+# Relleno Abajo (30) - CARP (28)
+30,East,0,28,West,9
+# Relleno izquierda (15) - CARP (28)
+15,West,0,28,East,0
+# Relleno Abajo (30) - ETSI (12)
+30,West,0,12,East,0
+# Ruta 1 (14) - ETSI (12)
+14,South,0,12,North,0
+# Ruta 8 (67) - Puente de la Expiración (78)
+67,South,0,78,North,38
+# Ciudad Capote (68) - Puente de la Expiración (78)
+68,West,0,78,East,0
+# Relleno Izqda (76) - Puente de la Expiración (78)
+76,South,0,78,North,18
+# Ciudad Capote (68) - Ruta 8 (67)
+68,North,8,67,South,0
+# Ruta 7 (75) - Ruta 8 (67)
+75,West,0,67,East,0
+# Relleno Izqda (76) - Ruta 8 (67)
+76,East,0,67,West,0
+# Ruta 7 (65) - Ruta 8 (67)
+65,South,0,67,North,11
+# Ciudad Parlamento (34) - Ruta 6 (45)
+34,South,0,45,North,12
+# Pueblo Alameda (46) - Ruta 6 (45)
+46,North,8,45,South,0
+# Ruta 9 (53) - Ruta 6 (45)
+53,South,38,45,North,0
+# Puente de la Barqueta (54) - Ruta 6 (45)
+54,South,69,45,North,0
+# Ruta 5 (2) - Ciudad Parlamento (34)
+2,South,10,34,North,0
+# Ruta 9 (53) - Ciudad Parlamento (34)
+53,East,0,34,West,17
+# Camino de Bicis (86) - Ciudad Parlamento (34)
+86,North,61,34,South,0
+# Zona Sabana (56) - Zona Pantano (89)
+56,East,0,89,West,20
+# Zona Jungla (91) - Zona Pantano (89)
+91,East,0,89,West,0
+# Zona Jungla (92) - Zona Pantano (89)
+92,South,36,89,North,0
+# Zona Jungla (91) - Zona Sabana (56)
+91,South,0,56,North,0
+# Isla Mágica (59) - Zona Sabana (56)
+59,East,0,56,West,155
+# Ruta 3 (21) - FCOM (18)
+21,North,4,18,South,0
+# Relleno Izquierda (85) - Camino de Bicis (84)
+85,East,0,84,West,0
+# Ruta 10 (63) - Camino de Bicis (84)
+63,South,28,84,North,0
+# Pasarela de la Cartuja (80) - Camino de Bicis (84)
+80,East,0,84,West,17
+# Camino de Bicis (86) - Camino de Bicis (84)
+86,South,0,84,North,46
+# Cueva Alfalfa (48) - Camino de Bicis (84)
+48,North,0,84,South,87
+# Camino de Bicis (87) - Camino de Bicis (84)
+87,South,0,84,North,13
+# Ruta 7 (65) - Camino de Bicis (84)
+65,North,0,84,South,0
+# Relleno Abajo (30) - Ruta 5 (2)
+30,South,70,2,North,0
+# Relleno izquierda (15) - Ruta 5 (2)
+15,South,17,2,North,0
+# Pueblo Macarena (10) - Ruta 5 (2)
+10,South,0,2,North,4
+# Relleno Izqda (76) - Ciudad Capote (68)
+76,South,12,68,North,0
+# Cueva Alfalfa (48) - Pueblo Alameda (46)
+48,North,0,46,South,0
+# Ruta 7 (65) - Pueblo Alameda (46)
+65,North,87,46,South,0
+# Ruta 1 (14) - Relleno Abajo (30)
+14,South,70,30,North,0
+# Ruta 10 (63) - Relleno Izquierda (85)
+63,South,8,85,North,0
+# Pasarela de la Cartuja (80) - Relleno Izquierda (85)
+80,North,22,85,South,0
+# Camino de Bicis (86) - Relleno Izquierda (85)
+86,South,0,85,North,66
+# Camino de Bicis (87) - Relleno Izquierda (85)
+87,South,0,85,North,33
+# Ruta 7 (65) - Relleno Izquierda (85)
+65,West,0,85,East,20
+# Isla Mágica (59) - Ruta 10 (63)
+59,South,39,63,North,0
+# Camino de Bicis (87) - Ruta 10 (63)
+87,West,0,63,East,19
+# Zona Jungla (92) - Zona Jungla (91)
+92,South,0,91,North,0
+# Isla Mágica (59) - Zona Jungla (91)
+59,East,0,91,West,175
+# Ruta 7 (65) - Pasarela de la Cartuja (80)
+65,West,0,80,East,3
+# Camino de Bicis (86) - Ruta 9 (53)
+86,North,11,53,South,0
+# Puente de la Barqueta (54) - Ruta 9 (53)
+54,East,0,53,West,3
+# Ruta 7 (65) - Ruta 7 (75)
+65,South,30,75,North,0
+# Camino de Bicis (87) - Camino de Bicis (86)
+87,East,0,86,West,34
+# Puente de la Barqueta (54) - Camino de Bicis (86)
+54,South,20,86,North,0
+# Pueblo Macarena (10) - Relleno izquierda (15)
+10,West,0,15,East,0
+# Isla Mágica (59) - Zona Jungla (92)
+59,East,0,92,West,205
+# Puente de la Barqueta (54) - Isla Mágica (59)
+54,West,12,59,East,0
+# Ruta 7 (65) - Cueva Alfalfa (48)
+65,East,0,48,West,0
+# Ruta 7 (65) - Relleno Izqda (76)
+65,South,0,76,North,31
